@@ -1,2 +1,2 @@
-# Quiz-python_progfram-
+# Quiz-python_program-
 a small program for quiz
